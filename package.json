@@ -1,0 +1,23 @@
+{
+  "name": "responsive-baseline",
+  "version": "1.0.0",
+  "description": "Styles for displaying a responsive baseline grid overlay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtachkov/responsive-baseline.git"
+  },
+  "keywords": [
+    "baseline",
+    "responsive"
+  ],
+  "author": "Victor Tachkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtachkov/responsive-baseline/issues"
+  },
+  "homepage": "https://github.com/vtachkov/responsive-baseline#readme"
+}
